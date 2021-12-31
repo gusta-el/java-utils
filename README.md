@@ -13,7 +13,7 @@ Classes and Java tools to help and improving development
   <summary>Summary</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Dates and Hours</a>
+      Dates and Hours
       <ul>
         <li>LocalDateTime</li>
         <li>LocalDate</li>
